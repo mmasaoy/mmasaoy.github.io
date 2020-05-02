@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E3: Performing WODs Technical Essay
+title: E3-Performing WODs Technical Essay
 date: 2020-04-30
 ---
 
