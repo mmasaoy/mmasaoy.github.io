@@ -1,0 +1,7 @@
+---
+layout: essay
+type: essay
+title: E4-Progress in Programming Report
+date: 2020-05-10
+---
+My programming skills have improved because at the beginning I knew nearly nothing. Once the weeks went on I learned about conditional expressions, loops, and objects and arrays. In the start I was enthusiastic about programming but once it started getting difficult I was losing the enthusiasm. No, I have not been able to completely do the WODs 100% witout looking at the screencast solutions. As I try to find solutions online and through our class labs it was not enough to finish the WODs on my own. I would have to refer to the screencast solutions whenever I get stuck in an area for a little longer than necessary. Yes, the labs have helped me learn a lot but I am unable to completely submit the labs with confidence as there are parts that are difficult to answer usually the last questions and the etra credits. From what we've been going over in class I feel that I am ready to move on to the next stage and start building small web applications by using all all that we learned through the labs and WODs. I think the pace of the class was a little too fast sometimes we are slow on the labs and they were expected to be completed while we are on to the next lab. I really learned a lot through the WODs and would like to have more of that in the future because it taught you to learn it on your own while allowing you to use the screencasts for help whenever youre stuck.
